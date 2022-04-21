@@ -13,4 +13,4 @@ This is a project for the Data Science for Social Good Tutorial, Spring 2022, ta
     $ pip install -r requirements.txt
 ```
 
-- **Google CoLab:** If you are running our notebooks on a sandbox environmemt like Google CoLab, you will need to install the dependencies listed in the beggining of each notebook. Remember that once your session is disconected, you will have to install the packages again.
+- **Google CoLab:** If you are running our notebooks on a sandbox environment like Google CoLab, you will need to install the dependencies listed in the beggining of each notebook. Remember that once your session is disconected, you will have to install the packages again.
